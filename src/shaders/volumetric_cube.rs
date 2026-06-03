@@ -1,3 +1,7 @@
+//Analytical solution to render a volumetric box lit with a single directional light without raymarching.
+//Full Math/Implementation details are on this paper :
+//https://github.com/Youssef-Afella/notes/blob/main/Analytical%20Volumetric%20Box.png
+
 use crate::common::*;
 
 //Volume Properties /////////////////////////////////////////
